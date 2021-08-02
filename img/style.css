@@ -1,0 +1,18 @@
+* {
+    font-family: cursive;
+    padding:0;
+    margin:0;
+}
+
+header {
+    color: #264653;
+    background-color: #e9c46a;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+}
+
+
