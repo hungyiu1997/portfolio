@@ -9,10 +9,42 @@ header {
     background-color: #e9c46a;
 }
 
+h1 {
+    padding-top: 1cm;
+    display: inline-flex;
+}
+
 nav {
     display: flex;
     justify-content: flex-end;
     text-decoration: none;
 }
 
+nav a {
+    padding: 10px;
+    padding-bottom: 20px;
+    padding-top: -5px;
+    text-decoration: none;
+    color:#264653;
+}
+
+section {
+    display: block;
+    text-align: center;
+    width: 75%;
+    height: 75%;
+    padding-bottom: 2cm;
+} 
+
+h2 {
+    text-align: start;
+}
+
+section .images {
+    width: 40%;
+    height: auto;
+    display: inline;
+    display: flex;
+    justify-content: start;
+}
 
